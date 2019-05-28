@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+<FONT face="Tahoma" color="#620A0A">
+<p align="justify">Визуализации для корпуса текста романа М.Ю. Лермонтова «Герой нашего времени</p>
+<p>1.</p>
+  <iframe style='width: 339px; height: 316px;' src='//voyant-tools.org/tool/Cirrus/?stopList=keywords-24b76e3793700af009428e23670a26df&whiteList=&visible=25&corpus=e4811b8e6d01d8ed71e4fc646749bfa8'></iframe>
+<p>2.</p>
+  <iframe style='width: 579px; height: 316px;' src='//voyant-tools.org/tool/Trends/?stopList=keywords-24b76e3793700af009428e23670a26df&query=%D0%B3%D0%BB%D0%B0%D0%B7*&mode=document&corpus=e4811b8e6d01d8ed71e4fc646749bfa8'></iframe>
+  
+  
+</FONT>
+</body>
+</html>
